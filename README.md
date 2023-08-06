@@ -25,7 +25,7 @@ In this project, I explore customer segmentation techniques to gain insights int
 2. Run the colab notebook
 
 ## Dataset
-The dataset used for this project is available at [Dataset Link](https://example.com/dataset).
+The dataset used for this project is available in the repository with the name Online Retail.xlsx
 - It includes customer transaction history and relevant features.
 
 ## Methods
